@@ -1,5 +1,5 @@
 {
-  "name": "mytype",
+  "name": "mytype-demo",
   "version": "1.0.0",
   "description": "My TypeScript Project",
   "main": "lib/index.js",
@@ -20,7 +20,7 @@
     "url": "git+https://github.com/CrisLi/my-type-project.git"
   },
   "keywords": [],
-  "author": "Chris",
+  "author": "crisli",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/CrisLi/my-type-project/issues"
